@@ -1,9 +1,8 @@
-import './App.css';
 
+  
 function App() {
   return (
-    <div className="App">
-      <p>This is Burger Builder</p>
+    <div>
     </div>
   );
 }
